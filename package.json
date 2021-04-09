@@ -39,7 +39,7 @@
     "@babel/plugin-proposal-throw-expressions": "^7.12.13",
     "@babel/plugin-syntax-import-meta": "^7.10.4",
     "ant-design-pro": "^2.3.1",
-    "antd": "^3.26.20",
+    "antd": "^4.0.0",
     "babel-plugin-import": "^1.13.3",
     "customize-cra": "^0.9.1",
     "node-sass": "^4.14.1",
